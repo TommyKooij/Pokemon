@@ -1,0 +1,22 @@
+.todo {
+  align-items: center;
+  background: #fff;
+  border-radius: 3px;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15);
+  display: flex;
+  font-size: 12px;
+  justify-content: space-between;
+  margin-bottom: 6px;
+  padding: 3px 10px;
+}
+
+.complete {
+  background: rgb(0, 255, 106);
+  cursor: pointer;
+}
+
+.delete {
+  background: rgb(255, 0, 0);
+  cursor: pointer;
+  margin-left: 6px;
+}

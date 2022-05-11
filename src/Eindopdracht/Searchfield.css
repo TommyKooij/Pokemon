@@ -1,0 +1,7 @@
+input[type="text"] {
+  box-sizing: border-box;
+  width: 25vw;
+  height: 3vw;
+  font-size: large;
+  border-radius: 1rem;
+}
